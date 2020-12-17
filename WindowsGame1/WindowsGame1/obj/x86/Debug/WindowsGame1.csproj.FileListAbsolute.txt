@@ -1,0 +1,9 @@
+D:\XNACube\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNACube\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNACube\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\box.xnb
+D:\XNACube\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\boxtexture.xnb
+D:\XNACube\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\XNACube\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\XNACube\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\XNACube\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+D:\XNACube\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\back.xnb

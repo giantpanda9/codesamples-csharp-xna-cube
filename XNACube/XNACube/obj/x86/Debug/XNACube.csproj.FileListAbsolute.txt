@@ -1,0 +1,8 @@
+D:\XNACube\XNACube\XNACube\bin\x86\Debug\XNACube.exe
+D:\XNACube\XNACube\XNACube\bin\x86\Debug\XNACube.pdb
+D:\XNACube\XNACube\XNACube\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNACube\XNACube\XNACube\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNACube\XNACube\XNACube\obj\x86\Debug\XNACube.exe
+D:\XNACube\XNACube\XNACube\obj\x86\Debug\XNACube.pdb
+D:\XNACube\XNACube\XNACube\bin\x86\Debug\Content\box.xnb
+D:\XNACube\XNACube\XNACube\bin\x86\Debug\Content\boxtexture.xnb
